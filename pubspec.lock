@@ -234,7 +234,7 @@ packages:
     source: hosted
     version: "2.0.8"
   wallpaper:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: wallpaper
       url: "https://pub.dartlang.org"
